@@ -1,0 +1,22 @@
+hello 
+goodBye
+what
+how
+when
+who
+hello world 
+goodBye my name is alex
+Scanner PrintWriter 
+goodBye
+goodBye
+goodBye
+goodBye
+goodBye
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
